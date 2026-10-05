@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="ActividadTDD2027/ActividadTDD2027.csproj" />
+  <Project Path="TestActividadTDD2027/TestActividadTDD2027.csproj" />
+</Solution>
